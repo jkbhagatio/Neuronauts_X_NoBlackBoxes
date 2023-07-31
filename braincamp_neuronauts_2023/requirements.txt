@@ -1,0 +1,8 @@
+ipdb
+ipython
+numpy
+openai
+pyaudio
+pyttsx3
+pyserial
+scipy
